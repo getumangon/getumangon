@@ -74,4 +74,4 @@
 
 ---
 
-Leave a ⭐ from [here](https://github.com/getumangon/getumangon) if you like 😁
+Leave a ⭐ from [here](https://github.com/getumangon/getumangon) if you like :)
