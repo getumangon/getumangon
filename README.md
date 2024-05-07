@@ -6,7 +6,7 @@
  
  ---
  
-- 👨‍🎓Working on React-Native <br/>
+- Current Techstack: React-Native, ReactJS, Recoil, Redux, Javascript, TailwindCSS <br/>
 - 🌱 I’m currently learning Flutter<br/>
 - 📫 Email: <a href="mailto: getumangon@gmail.com" target="_blank"> getumangon@gmail.com </a>
 
